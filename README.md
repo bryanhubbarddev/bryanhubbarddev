@@ -1,6 +1,7 @@
 # Bryan B. Hubbard II, M.S. Ed. 👋
 
-### 🚀 Senior Software Engineer | Observability, Reliability, and Agentic AI
+### 🚀 Software Engineer | Agentic AI, AI Innovation, and Observability 
+### 🛠 System Reliability and Application Development | Consultative Leadership
 **[Portfolio: bryanhubbard.dev](https://bryanhubbard.dev)** | **[Skillsoft Wallet](https://skillsoft.digitalbadges.skillsoft.com/profile/bryanhubbard681737/wallet)**
 
 Senior Software Engineer and **Master of Science in Education** with **13+ years of enterprise experience** at **The Home Depot**. Specialized in supporting mission-critical systems across **2,300+ locations**, reducing recurring incidents by **~88%**, and architecting **Agentic AI workflows** that transform complex data into actionable insights.
