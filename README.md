@@ -33,7 +33,7 @@ Software Engineer and **Master of Science in Education** with **13+ years of ent
 
 ### 🎓 173 Certifications & Continuous Learning
 Maintains a Day 1 learning mindset supported by a broad portfolio of verified credentials.
-* [**View Full Certification Wallet**](https://skillsoft.digitalbadges.skillsoft.com/profile/bryanhubbard681737/wallet)
+* [**View Full Certification Wallet**](https://skillsoft.digitalbadges.skillsoft.com/profile/bbh1700/wallet)
 * **Key Focus:** AI Implementation, Cloud Architecture (GCP), CompTIA A+, OrangeMethod Product Support, **M.S. Ed.**
 
 ---
